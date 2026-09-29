@@ -1,0 +1,16 @@
+   91  ls -a
+   92  source .venv/bin/activate
+   93  which python3
+   94  pip list
+   95  pip install requests
+   96  pip list
+   97  deactivate
+   98  which python3
+   99  man ls
+  100  ls -h
+  101  man man
+  102  pip list
+  103  pip install requests
+  104  history
+  105  cd ~/coding-cafe
+  106  history
